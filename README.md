@@ -1,4 +1,4 @@
-# chore-door
+# Chore Door Game
 
 ## A little game in JS
 
