@@ -2,4 +2,4 @@
 
 ## A little game in JS
 
-**Play it here: **
+**Play it here:**
